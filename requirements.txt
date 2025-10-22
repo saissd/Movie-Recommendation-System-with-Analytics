@@ -1,0 +1,12 @@
+Flask==3.0.3
+gunicorn==23.0.0
+prometheus-client==0.20.0
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+pyarrow==17.0.0
+sentence-transformers==2.6.1
+faiss-cpu==1.8.0
+lightgbm==4.5.0
+mlflow==2.16.2
+implicit==0.7.2
